@@ -1,0 +1,2 @@
+/DracoApp/platforms/android/build/intermediates/classes/debug
+/DracoApp/platforms/android/build/intermediates/pre-dexed/debug/classes-ad7fc51d373f9070cc55457ab14c0b8909b1e842.jar

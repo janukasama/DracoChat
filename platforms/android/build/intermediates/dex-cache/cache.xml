@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/DracoApp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d73cb1507602ca877b03f90c404682ea9d154e09">
+        <dex dex="/DracoApp/platforms/android/build/intermediates/pre-dexed/debug/classes-ad7fc51d373f9070cc55457ab14c0b8909b1e842.jar" />
+    </item>
+
+</items>
